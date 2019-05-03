@@ -1,0 +1,237 @@
+
+.fondo1{
+	background-image: url(../img/sol.jpg);
+	background-size:cover;
+	background-attachment: fixed;
+			
+    	
+}
+.fondo{
+	height: 300px;
+
+}
+
+
+.po{
+	background-color:#A9F5F2;
+	border-radius: 10px;
+	opacity: 10%;
+	margin-top:60px;
+
+
+}
+
+#bge{ 
+	justify-content: center;
+}
+
+
+.R{
+	text-align: center;
+	color: #B40404;
+}
+
+
+
+.bt{
+	margin-bottom: 20px;
+}
+
+.nob{
+	margin-top:20px;
+}
+
+
+
+.logos{
+	background-color: blue;
+}
+
+.arriba {
+  position: fixed;
+  right: 1px;
+  bottom: 1px;
+  display: block;
+  background: gray;
+  color: white;
+  padding: 10px;
+  transition: all 0.5s linear;
+  cursor: pointer;
+  display: none;
+  border-radius: 20px;
+  
+  
+}
+
+.reg {
+  position: fixed;
+  right: 1px;
+  top:160px;
+  
+
+}
+
+.regL {
+  position: fixed;
+  right: 1px;
+  top:200px;
+  
+
+}
+
+
+
+
+.arriba :hover{
+	opacity: 1;
+}
+
+
+	
+
+
+.BOTON1{
+	background-color: gray;
+	text-decoration: none;
+	padding: 20px;
+	list-style: none;
+	
+	font-weight: 600;
+
+
+}
+
+.BOTON2{
+	background-color: gray;
+	list-style: none;
+	padding: 20px;
+	list-style: none;
+	
+	font-weight: 600;
+}
+
+.BOTON3{
+	background-color: gray;
+	list-style: none;
+	padding: 20px;
+	list-style: none;
+	
+	font-weight: 600;
+}
+
+.BOTON4{
+	background-color: gray;
+	list-style: none;
+	padding: 20px;
+	list-style: none;
+	
+	font-weight: 600;
+}
+
+nav h5{
+	text-align: center;
+	font-size: 40px;
+	color:white;
+	padding-top:150px;
+	opacity: 0;
+	margin-left: -200px;
+}
+.LM{
+	font-family: "verdana";
+	font-size: 60px;
+	font-weight: bold;
+}
+
+
+.sec1{
+
+background-color:#B40404;
+
+
+		
+
+}
+.sec22{
+ background-color:#B40404;
+
+ 
+  
+  
+}  
+
+
+.color{
+	color:white;
+}
+
+#pequeño{
+
+}
+
+.texto{
+	color:white;
+	font-family: "verdana";
+	font-size: 20px;
+	text-align: center;
+	line-height: 30px;
+	margin-top:100px;
+	text-decoration: none;
+}
+
+.texto2{
+	color:white;
+	font-family: "verdana";
+	font-size: 20px;
+	text-align: center;
+	margin-top:20px;
+	line-height: 30px;
+	padding-top: 20px;
+	text-decoration: none;
+}
+
+.sec2{
+	background: #B40404;
+	
+	position: relative;
+
+}
+
+
+.sec3{
+	background:#B40404;
+	
+	
+	
+}
+	
+
+footer{
+	background-color: black;
+	
+}
+
+.redes{
+	padding-top: 20px;
+	width: 20%;
+	margin: 0 auto;
+
+}
+
+.redes li{
+	width: 30%;
+	float: left;
+	list-style: none;
+
+}
+
+.redes li img{
+	width: 100%;
+
+}
+
+
+
+
+
+
+
